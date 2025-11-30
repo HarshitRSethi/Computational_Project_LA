@@ -15,7 +15,7 @@ This repository contains two C++ programs written as part of a computational mat
 
 ### 📌 Description
 
-This program computes the **Row-Reduced Echelon Form** of any matrix of size \( m \times n \).  
+This program computes the **Row-Reduced Echelon Form** of any matrix of size \( m x n \).  
 It performs:
 
 - Finding the next pivot column

@@ -1,5 +1,5 @@
 /*
-Q.4 Write a code for Laplace expansion (cofactor expansion) of the determinant of a square matrix
+Q.2 Write a code for Laplace expansion (cofactor expansion) of the determinant of a square matrix
 */
 #include <iostream>
 #include <vector>
